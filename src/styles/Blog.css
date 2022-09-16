@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .blog_flex{
+        display: inline !important;
+       margin: auto;
+       width: 90%;
+        background-color: red;
+        text-align: center;
+        /* margin: 5px 0; */
+    }
+    .blog_flex img{
+        width: 100% !important;
+    }
+}

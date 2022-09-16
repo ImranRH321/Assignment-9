@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "6293e6e12ec78bc292903d98",
+    "picture": "https://user-images.trustpilot.com/56bbd6890000ff000a04f950/64x64.png",
+    "name": "Lumei Diana",
+    "rating": 1.5,
+    "text": "Thank you very much for helping me out with the bug problem in my house. I recommend you to everyone!"
+  },
+  {
+    "_id": "6293e6e1536a1ffad34d505f",
+    "balance": "$2,968.92",
+    "picture": "https://user-images.trustpilot.com/6292c9388d906900117f953f/64x64.png",
+    "name": "Price Roy",
+    "rating": 2.5,
+    "text": "As a businessman, I appreciate the professionally addressed issues that are being handled immediately. Great job, thank you"
+  },
+  {
+    "_id": "6293e6e18ad3c2bf98772e3a",
+    "balance": "$3,948.04",
+    "picture": "https://user-images.trustpilot.com/62040c60b71748001367c7df/64x64.png",
+    "name": "Madge Floyd",
+    "rating": 3.5,
+    "text": "I like how quick and effective their service was – exactly what I needed at that moment!"
+  },
+  {
+    "_id": "6293e6e12ec78bc292903d98",
+    "picture": "https://bugster.themerex.net/wp-content/uploads/2019/01/3test-copyright-75x75.jpg",
+    "name": "Deborah Jones",
+    "rating": 4.5,
+    "text": "GREAT GUYS I like how quick and effective their service was – exactly what I needed at that moment!"
+  },
+  {
+    "_id": "6293e6e18ad3c2bf98772e3a",
+    "balance": "$3,948.04",
+    "picture": "https://bugster.themerex.net/wp-content/uploads/2019/01/1test-copyright-75x75.jpg",
+    "name": "Jessica Thompson",
+    "rating": 4,
+    "text": "AMAZING! Thank you very much for helping me out with the bug problem in my house. I recommend you to everyone!"
+  },
+  {
+    "_id": "6293e6e12ec78bc292903d98",
+    "picture": "https://user-images.trustpilot.com/56bbd6890000ff000a04f950/64x64.png",
+    "name": "Lumei Diana",
+    "rating": 5,
+    "text": "Thank you very much for helping me out with the bug problem in my house. I recommend you to everyone!"
+  }
+]
